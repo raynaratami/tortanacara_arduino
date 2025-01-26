@@ -1,11 +1,17 @@
 const int bd = 2;
+//definir botão do lado direito
 const int be = 7;
+//definir botão do lado esquerdo
 const int ledd = 3;
+//definir led do lado direito
 const int lede = 6;
+//definir led do lado esquerdo
 const int buzzer = 11;
+//definir buzzer
 const int r = 4;
 const int g = 8;
 const int b = 5;
+//definir led rgb do centro do projeto
 int tempo=3000;
 int a;
 
